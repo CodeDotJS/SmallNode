@@ -1,0 +1,17 @@
+{
+  "name": "Music_Plyaer",
+  "version": "0.0.1",
+  "description": "A Simple Music Player using Node.js",
+  "main": "app.js",
+  "author": "Rishi Giri",
+  "license": "BSD",
+  "dependencies": {
+    "fs": "",
+    "lame": "",
+    "speaker": ""
+  },
+  "engines": {
+    "node": "0.10.12",
+    "npm": "1.2.30"
+  }
+}

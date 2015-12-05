@@ -7,8 +7,21 @@ I haven't tested the code yet.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-I'm uploading the fully packaged code bundle.
-But if you are using Linux, then before testing this code, just type :
+Start with : sudo apt-get install libasound2-dev
 
-sudo apt-get install libasound2-dev
 
+If you are using Linux, then before testing this code, just type that command.
+
+--
+
+Now, install the package :
+
+npm install
+
+--
+
+Copy any song in the folder.
+
+--
+
+Don't know it will work or not! :sad:
