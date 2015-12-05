@@ -1,16 +1,13 @@
 # Node.js-music-player
 a music player written in node [ cli ]
 
-It's not my code, I read it somewhere, and it came in my mind.
-
 I haven't tested the code yet. 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 Start with : sudo apt-get install libasound2-dev
 
-
-If you are using Linux, then before testing this code, just type that command.
+The above command is required if you want to install Speaker module, as per mentioned in it's documentation.
 
 --
 
@@ -20,8 +17,11 @@ npm install
 
 --
 
-Copy any song in the folder.
+Copy any song in the folder, or enter the directory, or just type "bezerk.mp3"
 
 --
 
 Don't know it will work or not! :sad:
+
+Moreover, there are no controller provided, you can just play the song and nothing more. The only way to 
+close it is using command - CTRL + C
