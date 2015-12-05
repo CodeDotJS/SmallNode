@@ -1,4 +1,5 @@
 # Node.js-music-player
+
 a music player written in node [ cli ]
 
 I haven't tested the code yet. 
@@ -15,9 +16,13 @@ Now, install the package :
 
 npm install
 
+speaker module can create problem and you won't able to install it, so, use the command which I've give above.
+
 --
 
-Copy any song in the folder, or enter the directory, or just type "bezerk.mp3"
+Copy any song in the folder, or enter the directory, or just type 
+
+- node mplayer.js "bezerk.mp3"
 
 --
 
