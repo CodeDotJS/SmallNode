@@ -12,11 +12,11 @@ The above command is required if you want to install Speaker module, as per ment
 
 --
 
-Now, install the package :
+Now, install the package, just run :
 
-npm install
+- npm install
 
-speaker module can create problem and you won't able to install it, so, use the command which I've give above.
+speaker module can create problem and you won't able to install it, so use the above command to install it properly.
 
 --
 
@@ -26,7 +26,5 @@ Copy any song in the folder, or enter the directory, or just type
 
 --
 
-Don't know it will work or not! :sad:
-
-Moreover, there are no controller provided, you can just play the song and nothing more. The only way to 
+Unfortunately, there are no controllers provided, you can just play the song and nothing more. The only way to 
 close it is using command - CTRL + C
