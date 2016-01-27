@@ -2,7 +2,7 @@
 
 a music player written in node [ cli ]
 
-I haven't tested the code yet. 
+I haven't tested the code yet. [ update : it works ]
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
