@@ -2,7 +2,7 @@
   "name": "Node_Music_Plyaer",
   "version": "0.0.1",
   "description": "A Simple Music Player using Node.js",
-  "main": "app.js",
+  "main": "mplayer.js",
   "author": "Rishi Giri",
   "license": "BSD",
   "dependencies": {
