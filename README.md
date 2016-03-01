@@ -1,30 +1,27 @@
 # Node.js-music-player
 
-a music player written in node [ cli ]
+> a music player written in node [ cli ]
 
-I haven't tested the code yet. [ update : it works ]
+## Dependiencies
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+> sudo apt-get install libasound2-dev
 
-Start with : sudo apt-get install libasound2-dev
+__NOTE__ : This tool uses __speaker__ module. So, as per mentioned on it's documentation page, we need _libsound2-dev__ . Otherwise the code won't work.
 
-The above command is required if you want to install Speaker module, as per mentioned in it's documentation.
+## Installation
 
---
+> npm install
 
-Now, install the package, just run :
+## Playing
 
-- npm install
+> node mplayer.js "bezerk.mp3"
 
-speaker module can create problem and you won't able to install it, so use the above command to install it properly.
+## Drawbacks
 
---
+> No contorllers are provided. So, if you have to stop the player you can do :
 
-Copy any song in the folder, or enter the directory, or just type 
+__CTRL + C__
 
-- node mplayer.js "bezerk.mp3"
+## License
 
---
-
-Unfortunately, there are no controllers provided, you can just play the song and nothing more. The only way to 
-close it is using command - CTRL + C
+MIT © [Rishi Giri](http://rishigiri.com)
